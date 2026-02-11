@@ -1,0 +1,20 @@
+cff-version: 1.2.0
+message: "If you use or reference this work, please cite the published paper."
+title: "Distributed Phenomenological Invariants: Shared Internal Agreement Across Multiple Systems"
+version: "1.0"
+authors:
+  - family-names: de Beer
+    given-names: Riaan
+doi: "10.5281/zenodo.18603558"
+date-released: 2026
+repository-code: "https://github.com/infinityabundance/distributed-phenomenological-invariants"
+preferred-citation:
+  type: article
+  authors:
+    - family-names: de Beer
+      given-names: Riaan
+  year: 2026
+  title: "Distributed Phenomenological Invariants: Shared Internal Agreement Across Multiple Systems"
+  version: "v1.0"
+  journal: "Zenodo"
+  doi: "10.5281/zenodo.18603558"
